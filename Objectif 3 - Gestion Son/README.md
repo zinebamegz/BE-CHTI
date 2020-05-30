@@ -7,7 +7,7 @@
 Emettre le son (bruit Verre Cassé) à partir du main. 
 
 ### Etapes pour tester cet objectif : 
-*Pour observer le son émis et vérifier qu'on a un échantillon toutes les 91 micro secondes * 
+*Pour observer le son émis et vérifier qu'on a un échantillon toutes les 91 micro secondes* 
 ```
 	- Ouvrir le fichier "Project.uvprojx" 
 	- Vérifier qu' on est sur les bons paramètres :  
